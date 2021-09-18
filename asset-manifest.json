@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/pp/static/js/main.5b058cf9.chunk.js",
-    "main.js.map": "/pp/static/js/main.5b058cf9.chunk.js.map",
+    "main.js": "/pp/static/js/main.cbe3bb3b.chunk.js",
+    "main.js.map": "/pp/static/js/main.cbe3bb3b.chunk.js.map",
     "runtime-main.js": "/pp/static/js/runtime-main.7d9f9e56.js",
     "runtime-main.js.map": "/pp/static/js/runtime-main.7d9f9e56.js.map",
     "static/css/2.11b397c9.chunk.css": "/pp/static/css/2.11b397c9.chunk.css",
@@ -12,7 +12,7 @@
     "index.html": "/pp/index.html",
     "static/css/2.11b397c9.chunk.css.map": "/pp/static/css/2.11b397c9.chunk.css.map",
     "static/js/2.a4be730e.chunk.js.LICENSE.txt": "/pp/static/js/2.a4be730e.chunk.js.LICENSE.txt",
-    "static/js/main.5b058cf9.chunk.js.LICENSE.txt": "/pp/static/js/main.5b058cf9.chunk.js.LICENSE.txt",
+    "static/js/main.cbe3bb3b.chunk.js.LICENSE.txt": "/pp/static/js/main.cbe3bb3b.chunk.js.LICENSE.txt",
     "static/media/index.css": "/pp/static/media/architects-daughter-latin-400-normal.19380f93.woff2",
     "static/media/logo.034ef726.svg": "/pp/static/media/logo.034ef726.svg",
     "static/media/logo.b11630f2.svg": "/pp/static/media/logo.b11630f2.svg",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.7d9f9e56.js",
     "static/css/2.11b397c9.chunk.css",
     "static/js/2.a4be730e.chunk.js",
-    "static/js/main.5b058cf9.chunk.js"
+    "static/js/main.cbe3bb3b.chunk.js"
   ]
 }
