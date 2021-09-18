@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.js": "/static/js/main.07451221.chunk.js",
-    "main.js.map": "/static/js/main.07451221.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c604003a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c604003a.js.map",
-    "static/css/2.439dbd6f.chunk.css": "/static/css/2.439dbd6f.chunk.css",
-    "static/js/2.a4be730e.chunk.js": "/static/js/2.a4be730e.chunk.js",
-    "static/js/2.a4be730e.chunk.js.map": "/static/js/2.a4be730e.chunk.js.map",
-    "static/js/3.2a12a42c.chunk.js": "/static/js/3.2a12a42c.chunk.js",
-    "static/js/3.2a12a42c.chunk.js.map": "/static/js/3.2a12a42c.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.439dbd6f.chunk.css.map": "/static/css/2.439dbd6f.chunk.css.map",
-    "static/js/2.a4be730e.chunk.js.LICENSE.txt": "/static/js/2.a4be730e.chunk.js.LICENSE.txt",
-    "static/js/main.07451221.chunk.js.LICENSE.txt": "/static/js/main.07451221.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/architects-daughter-latin-400-normal.19380f93.woff2",
-    "static/media/logo.034ef726.svg": "/static/media/logo.034ef726.svg",
-    "static/media/logo.b11630f2.svg": "/static/media/logo.b11630f2.svg",
-    "static/media/poker-planing.f68054f9.png": "/static/media/poker-planing.f68054f9.png"
+    "main.js": "/pp/static/js/main.5b058cf9.chunk.js",
+    "main.js.map": "/pp/static/js/main.5b058cf9.chunk.js.map",
+    "runtime-main.js": "/pp/static/js/runtime-main.7d9f9e56.js",
+    "runtime-main.js.map": "/pp/static/js/runtime-main.7d9f9e56.js.map",
+    "static/css/2.11b397c9.chunk.css": "/pp/static/css/2.11b397c9.chunk.css",
+    "static/js/2.a4be730e.chunk.js": "/pp/static/js/2.a4be730e.chunk.js",
+    "static/js/2.a4be730e.chunk.js.map": "/pp/static/js/2.a4be730e.chunk.js.map",
+    "static/js/3.2a12a42c.chunk.js": "/pp/static/js/3.2a12a42c.chunk.js",
+    "static/js/3.2a12a42c.chunk.js.map": "/pp/static/js/3.2a12a42c.chunk.js.map",
+    "index.html": "/pp/index.html",
+    "static/css/2.11b397c9.chunk.css.map": "/pp/static/css/2.11b397c9.chunk.css.map",
+    "static/js/2.a4be730e.chunk.js.LICENSE.txt": "/pp/static/js/2.a4be730e.chunk.js.LICENSE.txt",
+    "static/js/main.5b058cf9.chunk.js.LICENSE.txt": "/pp/static/js/main.5b058cf9.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/pp/static/media/architects-daughter-latin-400-normal.19380f93.woff2",
+    "static/media/logo.034ef726.svg": "/pp/static/media/logo.034ef726.svg",
+    "static/media/logo.b11630f2.svg": "/pp/static/media/logo.b11630f2.svg",
+    "static/media/poker-planing.f68054f9.png": "/pp/static/media/poker-planing.f68054f9.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c604003a.js",
-    "static/css/2.439dbd6f.chunk.css",
+    "static/js/runtime-main.7d9f9e56.js",
+    "static/css/2.11b397c9.chunk.css",
     "static/js/2.a4be730e.chunk.js",
-    "static/js/main.07451221.chunk.js"
+    "static/js/main.5b058cf9.chunk.js"
   ]
 }
