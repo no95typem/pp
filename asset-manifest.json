@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.js": "/pp/static/js/main.4e13dda7.chunk.js",
-    "main.js.map": "/pp/static/js/main.4e13dda7.chunk.js.map",
-    "runtime-main.js": "/pp/static/js/runtime-main.481a1a16.js",
-    "runtime-main.js.map": "/pp/static/js/runtime-main.481a1a16.js.map",
-    "static/css/2.11b397c9.chunk.css": "/pp/static/css/2.11b397c9.chunk.css",
-    "static/js/2.93b8a035.chunk.js": "/pp/static/js/2.93b8a035.chunk.js",
-    "static/js/2.93b8a035.chunk.js.map": "/pp/static/js/2.93b8a035.chunk.js.map",
-    "static/js/3.33f59a57.chunk.js": "/pp/static/js/3.33f59a57.chunk.js",
-    "static/js/3.33f59a57.chunk.js.map": "/pp/static/js/3.33f59a57.chunk.js.map",
-    "index.html": "/pp/index.html",
-    "static/css/2.11b397c9.chunk.css.map": "/pp/static/css/2.11b397c9.chunk.css.map",
-    "static/js/2.93b8a035.chunk.js.LICENSE.txt": "/pp/static/js/2.93b8a035.chunk.js.LICENSE.txt",
-    "static/js/main.4e13dda7.chunk.js.LICENSE.txt": "/pp/static/js/main.4e13dda7.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/pp/static/media/architects-daughter-latin-400-normal.19380f93.woff2",
-    "static/media/logo.034ef726.svg": "/pp/static/media/logo.034ef726.svg",
-    "static/media/logo.b11630f2.svg": "/pp/static/media/logo.b11630f2.svg",
-    "static/media/poker-planing.f68054f9.png": "/pp/static/media/poker-planing.f68054f9.png"
+    "main.js": "./pp/static/js/main.d39b09bc.chunk.js",
+    "main.js.map": "./pp/static/js/main.d39b09bc.chunk.js.map",
+    "runtime-main.js": "./pp/static/js/runtime-main.460bc010.js",
+    "runtime-main.js.map": "./pp/static/js/runtime-main.460bc010.js.map",
+    "static/css/2.fc741a08.chunk.css": "./pp/static/css/2.fc741a08.chunk.css",
+    "static/js/2.47375cc8.chunk.js": "./pp/static/js/2.47375cc8.chunk.js",
+    "static/js/2.47375cc8.chunk.js.map": "./pp/static/js/2.47375cc8.chunk.js.map",
+    "static/js/3.3bcf33e6.chunk.js": "./pp/static/js/3.3bcf33e6.chunk.js",
+    "static/js/3.3bcf33e6.chunk.js.map": "./pp/static/js/3.3bcf33e6.chunk.js.map",
+    "index.html": "./pp/index.html",
+    "static/css/2.fc741a08.chunk.css.map": "./pp/static/css/2.fc741a08.chunk.css.map",
+    "static/js/2.47375cc8.chunk.js.LICENSE.txt": "./pp/static/js/2.47375cc8.chunk.js.LICENSE.txt",
+    "static/media/index.css": "./pp/static/media/architects-daughter-latin-400-normal.19380f93.woff2",
+    "static/media/login.1382c64d.svg": "./pp/static/media/login.1382c64d.svg",
+    "static/media/logo.b11630f2.svg": "./pp/static/media/logo.b11630f2.svg",
+    "static/media/new-ideas.1e89bf28.svg": "./pp/static/media/new-ideas.1e89bf28.svg",
+    "static/media/scrum-board.75d7ca00.svg": "./pp/static/media/scrum-board.75d7ca00.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.481a1a16.js",
-    "static/css/2.11b397c9.chunk.css",
-    "static/js/2.93b8a035.chunk.js",
-    "static/js/main.4e13dda7.chunk.js"
+    "static/js/runtime-main.460bc010.js",
+    "static/css/2.fc741a08.chunk.css",
+    "static/js/2.47375cc8.chunk.js",
+    "static/js/main.d39b09bc.chunk.js"
   ]
 }
