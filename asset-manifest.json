@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.a92bf971.chunk.css",
-    "main.js": "./static/js/main.85fb00cf.chunk.js",
-    "main.js.map": "./static/js/main.85fb00cf.chunk.js.map",
+    "main.js": "./static/js/main.0a420c9a.chunk.js",
+    "main.js.map": "./static/js/main.0a420c9a.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.70f1e77b.js",
     "runtime-main.js.map": "./static/js/runtime-main.70f1e77b.js.map",
     "static/css/2.2c87c014.chunk.css": "./static/css/2.2c87c014.chunk.css",
@@ -37,7 +37,7 @@
     "static/media/image-focus.673689f9.svg": "./static/media/image-focus.673689f9.svg",
     "static/media/info_sound.5b8edab8.wav": "./static/media/info_sound.5b8edab8.wav",
     "static/media/login.1382c64d.svg": "./static/media/login.1382c64d.svg",
-    "static/media/logo.770c4ab1.svg": "./static/media/logo.770c4ab1.svg",
+    "static/media/logo.b5ab0a3d.svg": "./static/media/logo.b5ab0a3d.svg",
     "static/media/styles.scss": "./static/media/mail-sent-mod.a9d62da9.svg",
     "static/media/meditation.eb318291.svg": "./static/media/meditation.eb318291.svg",
     "static/media/message_sound.6c808b35.wav": "./static/media/message_sound.6c808b35.wav",
@@ -67,6 +67,6 @@
     "static/css/2.2c87c014.chunk.css",
     "static/js/2.b43e4c3d.chunk.js",
     "static/css/main.a92bf971.chunk.css",
-    "static/js/main.85fb00cf.chunk.js"
+    "static/js/main.0a420c9a.chunk.js"
   ]
 }
